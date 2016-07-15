@@ -1,4 +1,4 @@
 numberHashCode
 =======
 
-number hash code for the browser and node.js
+returns number hash code
